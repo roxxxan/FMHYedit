@@ -399,6 +399,7 @@
 * ⭐ **[t.ly](https://t.ly/)** - `t.ly/qqH6`
 * ⭐ **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
 * ⭐ **[Reduced](https://reduced.to/)** - `reduced.to/nuwad`
+* [ezy.ovh](https://mylinx.cc/url-shortener) - `ezy.ovh/NTUXI`
 * [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
 * [gg.gg](https://gg.gg/) - `gg.gg/oggp7`
 * [Linkify](https://creator.linkify.cz/) - `linkify.cz/1a0O`
@@ -779,6 +780,7 @@
 * ⭐ **[Foxified](https://foxified.org/)** - Use Firefox Extensions in Chrome
 * ⭐ **[Edge Chrome](https://greasyfork.org/en/scripts/439922)** - Use Edge Extensions in Chrome
 * ⭐ **[Clipper](https://clipper.website/)** - Copy Content in Multiple Formats
+* [URL Shortener Mylinx](https://chromewebstore.google.com/detail/url-shortener-mylinx/koeafilbladcecfhnfjkegnfniifglko) - Create short links in a click!
 * [WebCRX](https://webcrx.io/) - Easily Install Local CRX Files
 * [Chrome Stats](https://chrome-stats.com/) - Compare / Analyze Chrome Extensions
 * [Extension Source Downloader](https://chromewebstore.google.com/detail/extension-source-download/dlbdalfhhfecaekoakmanjflmdhmgpea) - View Extension Source Code / [Guide](https://gist.github.com/paulirish/78d6c1406c901be02c2d)
